@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Jeevankumarmuttangi/Jeevankumarmuttangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jeevankumarmuttangi/Jeevankumarmuttangi** is a ✨ _special_ ✨ repository because its appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
